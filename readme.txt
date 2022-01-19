@@ -112,19 +112,6 @@ https://www.dana-farber.org/brain-tumors/diagnosis/
 LINK TO DATASET
 https://www.kaggle.com/masoudnickparvar/brain-tumor-mri-dataset
 
-OVERALL CODE INSPIRATION/MODEL INSPIRATION/SOURCE: https://www.kaggle.com/lukasmendes/brain-tumor-cnn-98
-Overall, the baseline models 1,2 and 3 were sourced/inspired from this reference. 
-Although the code is not entirely the same most of it is retained, various parameters, comments, and tweaks were made.
-
-LINK TO CONFUSION MATRIX CODE https://www.kaggle.com/abnerneves/brain-cancer-diagnostics
-The code extract from reference this reference was not modified much and was used to generate the confusion matrices found for each model. 
-Unfortunately, the matrices did not represent accurate information. Many variations and attempts were made to use get sensible conusion 
-matrix but none proved helpful.
-
-LINK TO CODE THAT OUTPUTS DATA SET DESCRIPTION https://www.kaggle.com/nikitanikonov/brain-tumor-detection
-The code from reference https://www.kaggle.com/nikitanikonov/brain-tumor-detection helped create a description of the data for both the training set bar plot and testing set bar plot.
-
-
 LINK TO CODE THAT PROVIDED MODEL INSPIRATION https://www.kaggle.com/stpeteishii/brain-tumor-mri-torch-conv2d 
 While the exact models were not used it is fair to give credit to a source that sparked ideas.
 
